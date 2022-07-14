@@ -26,14 +26,14 @@
 <br>
 
 
-<b> ✨ Languages ✨ <br>
+<h2> ✨ Languages ✨ </h2>
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact)](https://github.com/s00cong)
 
 
-
+<!--
 <h2> 🥁 Tech Stack 🥁 </h2>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -60,7 +60,7 @@
   <br>
   <br>
   <br>
-
+-->
 
 
 </div>
