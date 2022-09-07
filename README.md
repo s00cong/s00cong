@@ -1,5 +1,6 @@
 <div align=center>
-<img src= "https://capsule-render.vercel.app/api?height=180&text=Welcome!&desc=s00cong's%20page😎!&type=waving&color=0:FF9333,50:EB5DD3,100:81DEFF&fontAlignY=30&descAlignY=50&descAlign=70&animation=fadeIn&fontSize=60&descSize=20" />
+<!-- <img src= "https://capsule-render.vercel.app/api?height=180&text=Welcome!&desc=s00cong's%20page😎!&type=waving&color=0:FF9333,50:EB5DD3,100:81DEFF&fontAlignY=30&descAlignY=50&descAlign=70&animation=fadeIn&fontSize=60&descSize=20" />
+-->
 
 <h3> 👩🏻‍💻Greeting👩🏻‍💻 </h3>
 
@@ -26,16 +27,18 @@
 <br>
 
 
-<h2> ✨ Languages ✨ </h2>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact)](https://github.com/s00cong)
+
 
 
 <!--
-<h2> 🥁 Tech Stack 🥁 </h2>
+<h2> ✨ Languages ✨ </h2>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact)](https://github.com/s00cong)
 
+<h2> 🥁 Tech Stack 🥁 </h2>
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
