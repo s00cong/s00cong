@@ -11,29 +11,22 @@
 📖현재 웹을 중심으로 다양하게 공부하고 있습니다.📖
 
 꾸준히 공부하여 열심히 성장하겠습니다.🌳 
+<br>
+
+<h6> 📧 E-mail 📧 : tntnqls704312@naver.com </h6>
+<h6> 💬 INSTA 💬 : @water_biiiniii
+
 <br><br>
 
-<b> 📧 E-mail 📧<br>
-<h6> tntnqls704312@naver.com </h6>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs00cong&count_bg=%238AC3FF&title_bg=%23A25EAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<br>
+
+<!--
 
 <b> 💬 SNS 💬 <br><br>
 <a href="https://www.instagram.com/water_biiiniii/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs00cong&count_bg=%238AC3FF&title_bg=%23A25EAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-<br>
-
-
-
-
-
-
-
-
-<!--
 <h2> ✨ Languages ✨ </h2>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact)](https://github.com/s00cong)
 
