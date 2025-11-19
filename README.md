@@ -4,11 +4,6 @@
 
 <h3> 👩🏻‍💻Greeting👩🏻‍💻 </h3>
 
-📖현재 웹을 중심으로 다양하게 공부하고 있습니다.📖
-
-꾸준히 공부하여 열심히 성장하겠습니다.🌳 
-<br>
-
 <h6> 📧 E-mail 📧 : tntnqls704312@naver.com </h6>
 <h6> 💬 INSTA 💬 : @water_biiiniii
 
