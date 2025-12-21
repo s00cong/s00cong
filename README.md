@@ -1,87 +1,28 @@
 <div align=center>
-<!-- <img src= "https://capsule-render.vercel.app/api?height=180&text=Welcome!&desc=s00cong's%20page😎!&type=waving&color=0:FF9333,50:EB5DD3,100:81DEFF&fontAlignY=30&descAlignY=50&descAlign=70&animation=fadeIn&fontSize=60&descSize=20" />
--->
-
-<h3> 👩🏻‍💻Greeting👩🏻‍💻 </h3>
-안녕하세요!
-<h6> 📧 E-mail 📧 : tntnqls704312@naver.com </h6>
-<h6> 💬 INSTA 💬 : @water_biiiniii
-
-<br><br>
-
-
-
-<!--
-
-<b> 💬 SNS 💬 <br><br>
-<a href="https://www.instagram.com/water_biiiniii/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
-<h2> ✨ Languages ✨ </h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact)](https://github.com/s00cong)
-
-<h2> 🥁 Tech Stack 🥁 </h2>
-  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-  <br>
-  <br>
-  <br>
-  <br>
--->
-
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=200&section=header&text=s00b's%20Github!&fontSize=90" />	
+</div>
+<div align=center>
+	  <h3>🌱Skills</h3>
+  		<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+		  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+	  <h3>🔧Tools</h3>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+	  <h3>📬Database</h3>
+   		<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
-
-<!--
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=s00cong&show_icons=true" />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00cong&show_icons=true&theme=radical) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&langs_count=10&layout=compact)](https://github.com/s00cong/s00cong)
-
-
-<img src= "https://capsule-render.vercel.app/api?section=footer&height=200&type=waving&color=0:FF9333,50:EB5DD3,100:81DEFF" />
--->
-
-
-
-
-
-
-
-<!--
-**s00cong/s00cong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+	<br>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soobni">
+  	<img src="https://github-readme-stats.vercel.app/api?username=s00cong&show_icons=true&theme=holi">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact">
+  	</br>
+</div>
