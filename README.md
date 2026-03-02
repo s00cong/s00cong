@@ -22,7 +22,5 @@
 <div align=center>
 	<br>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soobni">
-  	<img src="https://github-readme-stats.vercel.app/api?username=s00cong&show_icons=true&theme=holi">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s00cong&layout=compact">
   	</br>
 </div>
